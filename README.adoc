@@ -1,0 +1,8 @@
+= GitLab Exporter
+
+Make metrics for the gitlab instance. It measures
+
+- repository storage size
+- commits created during last one hour
+- merge requests created during the last one hour
+- merge requests merged / closed during the last one hour
